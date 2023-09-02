@@ -6986,7 +6986,7 @@
   ];
   return J.use(pe), J;
 });
-//# sourceMappingURL=swiper-bundle.min.js.map
+//sourceMappingURL = swiper - bundle.min.js.map;
 
 /*!
  * Bootstrap v5.0.2 (https://getbootstrap.com/)
